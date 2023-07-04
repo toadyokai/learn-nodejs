@@ -90,7 +90,7 @@ CommonJS 模块化规范和 ES6 的模块化规范在许多方面有所不同。
       - 当 node 进程开始执行时，文件被编译成二进制，存入内存中，无须再次做标识符定位、文件定位、编译等过程，可以直接使用。
         ![module](./imgs/module.png)
         ![require](./imgs/require.png)
-        ！[link](./imgs/rel.png)
+        ![link](./imgs/rel.png)
 
 ## 2.3 npm 包
 
